@@ -1,6 +1,6 @@
 Ashish Tembhekar // Dev86
 
-Python // C++ // Java // Objective C // Swift // Flutter // Quite literally "Jack of all trades , Master of none."
+Python // C++ // Java // Kotlin // React // Flutter // Quite literally "Jack of all trades , Master of none."
 
 Learning about App Development (PC/Mac/Mobile), Web Scraping and Automations with Python, Hackintoshing, iOS Jailbreaks , Reverse Engineering and Open Source projects. 
 
